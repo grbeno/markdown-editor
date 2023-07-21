@@ -30,7 +30,7 @@ function App() {
       <h1>Markdown-editor</h1>
       <hr />
       <h3>This markdown editor & previewer helps you edit readme file for your github repository.</h3>
-      <h3><a style={{color: 'yellow'}} href="https://www.markdownguide.org/basic-syntax/" target="_blank">https://www.markdownguide.org/basic-syntax/</a></h3>
+      <h3><a style={{color: 'yellow'}} href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer">https://www.markdownguide.org/basic-syntax/</a></h3>
       <button id="clear" onClick={clearButton}>clear</button>
       <div class="container">
         <div class="page">
