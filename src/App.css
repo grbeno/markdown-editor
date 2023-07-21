@@ -1,8 +1,46 @@
+
 body {
   background-color: black;
 }
+
 .App {
   color: white;
   text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.page {
+  display: block;
+}
+
+.title {
+  display: block;
+  padding: 1%;
+  margin: 2%;
+}
+
+textarea {
+  display: block;
+  padding: 2%;
+  font-size: 18px;
+  background-color: rgb(196, 188, 188);
+  width: 500px;
+  height: 450px;
+  text-align: left;
+}
+
+#preview {
+  display: block;
+  padding: 2%;
+  margin-left: 6%;
+  background-color: rgb(196, 188, 188);
+  color: black;
+  width: 500px;
+  height: 450px;
+  text-align: left;
 }
 
