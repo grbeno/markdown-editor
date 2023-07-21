@@ -1,6 +1,6 @@
 
 body {
-  background-color: black;
+  background-color: rgb(43, 33, 33);
 }
 
 .App {
@@ -27,20 +27,32 @@ textarea {
   display: block;
   padding: 2%;
   font-size: 18px;
-  background-color: rgb(196, 188, 188);
-  width: 500px;
+  background-color: rgb(222, 213, 213);
+  width: 520px;
   height: 470px;
-  text-align: left;
 }
 
 #preview {
   display: block;
   padding: 2%;
-  margin-left: 6%;
-  background-color: rgb(39, 36, 36);
+  margin-left: 7%;
+  background-color: rgb(40, 42, 46);
   color: rgb(247, 243, 7);
-  width: 500px;
+  width: 520px;
   height: 470px;
   text-align: left;
+  overflow: auto;
 }
 
+#clear {
+  background: #6262bf;
+  color: rgb(222, 213, 213);
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 8px;
+}
+
+#clear:hover {
+  background-color: #7f79c7;
+}
