@@ -29,9 +29,9 @@ function App() {
     <div className="App">
       <h1>Markdown-editor</h1>
       <hr />
-      <h3>Yo can see here a markdown editor & previewer.</h3>
-      <h3>. . .</h3>
-      <button onClick={clearButton}>Clear</button>
+      <h3>This markdown editor & previewer helps you edit readme file for your github repository.</h3>
+      <h3><a style={{color: 'yellow'}} href="https://www.markdownguide.org/basic-syntax/">https://www.markdownguide.org/basic-syntax/</a></h3>
+      <button onClick={clearButton} style={{fontSize: '16px', padding: '8px'}}>Clear</button>
       <div class="container">
         <div class="page">
           <div class="title">E D I T O R</div>

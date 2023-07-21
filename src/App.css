@@ -29,7 +29,7 @@ textarea {
   font-size: 18px;
   background-color: rgb(196, 188, 188);
   width: 500px;
-  height: 450px;
+  height: 470px;
   text-align: left;
 }
 
@@ -37,10 +37,10 @@ textarea {
   display: block;
   padding: 2%;
   margin-left: 6%;
-  background-color: rgb(196, 188, 188);
-  color: black;
+  background-color: rgb(39, 36, 36);
+  color: rgb(247, 243, 7);
   width: 500px;
-  height: 450px;
+  height: 470px;
   text-align: left;
 }
 
