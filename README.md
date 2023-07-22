@@ -1,6 +1,6 @@
 ## Markdown editor & previewer
 ---
-- I have created this tool to edit readme files for github.
+- I have created this tool to edit README.md files for github.
 - Node.js 18.16.1, ReactJS, react-markdown   
 ---
 
@@ -14,6 +14,6 @@
 
 ### Links
 
-[markdown editor](https://https://markdown-editor.up.railway.app/)
+[markdown editor](https://markdown-editor.up.railway.app/)
 
 [markdown syntax](https://www.markdownguide.org/basic-syntax/)
