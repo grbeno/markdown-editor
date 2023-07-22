@@ -22,9 +22,9 @@ function App() {
 
 ### Links
 
-[markdown github](https://github.com/grbeno/markdown-editor)
+## [markdown github](https://github.com/grbeno/markdown-editor)
 
-[markdown syntax](https://www.markdownguide.org/basic-syntax/)`);
+## [markdown syntax](https://www.markdownguide.org/basic-syntax/)`);
   
   const storedText = localStorage.getItem('text');
 
