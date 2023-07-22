@@ -33,7 +33,7 @@ function App() {
     if (storedText) {
       setText(storedText);
     }
-  }, []);
+  }, [storedText]);
 
   const handleChange = (e) => {
     // Save text (type) to the localStorage 
