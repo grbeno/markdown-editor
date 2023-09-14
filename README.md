@@ -14,6 +14,6 @@
 
 ### Links
 
-### [`markdown editor`](https://markdown-editor.up.railway.app/)
+### [`markdown editor`](https://utils.graczolbenedek.com/)
 
 ### [`markdown syntax`](https://www.markdownguide.org/basic-syntax/)
